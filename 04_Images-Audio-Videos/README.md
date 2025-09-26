@@ -208,7 +208,7 @@ By giving url of the image:
 
 ### 📺 Watch this lesson: Images, Audios and Videos | HTML for absolute beginners in 2025 | #4
 
-> ### Full Course Playlist: **_[Watch the full video here](https://youtu.be/rjD_CfZmjHc?si=TP6Wf1VNn0xuKmsP)_**
+> ### Full Course Playlist: **_[Watch the full video here](https://youtu.be/tZZ0i32KLEc)_**
 >
 > ### Follow me on **_[Instagram](https://www.instagram.com/iam_abhinav_chaturvedi)_**
 >
