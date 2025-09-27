@@ -140,9 +140,9 @@ Here is a basic example:
 
 ## 🎥 Course Resources
 
-### 📺 Watch this lesson: Tables in HTML | HTML for absolute beginners in 2025 | #5
+### 📺 Watch this lesson: [Tables in HTML | HTML for absolute beginners in 2025 | #5](https://youtu.be/AjSd7A2fpfI)
 
-> ### Full Course Playlist: **_[Watch the full video here](https://youtu.be/rjD_CfZmjHc?si=TP6Wf1VNn0xuKmsP)_**
+> ### **_[Access to the full playlist](https://www.youtube.com/playlist?list=PL4VKIr7WdJ6AVgGmJjtgn2ZnBUuoHfcL_)_**
 >
 > ### Follow me on **_[Instagram](https://www.instagram.com/iam_abhinav_chaturvedi)_**
 >
